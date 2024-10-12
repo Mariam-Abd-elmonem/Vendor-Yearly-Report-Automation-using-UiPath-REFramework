@@ -1,0 +1,3 @@
+InvoiceNumber,Item,Date,Amount,Tax,Total,Currency
+707573,"Concierge Services",2017-10-04,165569,33113.8,198683,CAD
+987651,"Beverages and Catering",2017-10-13,22699,4539.8,27238.8,EUR
